@@ -13,4 +13,4 @@
 _out/
 out/
 .idea/
-pkg/
+/pkg
